@@ -513,7 +513,7 @@ code {
 #content {
   padding: 20px;
   padding-left: 260px;
-  max-width: 700px;
+  /* max-width: 800px; */
 }
 
 #content .control {
@@ -576,39 +576,39 @@ code {
   text-transform: uppercase;
 }
 
-/* GET */
-#content article.GET a h2 code {
+/* RQ1 */
+#content article.RQ1 a h2 code {
   color: #119bdf;
 }
 
-#content article.GET a h2 code b {
+#content article.RQ1 a h2 code b {
   background: #119bdf;
 }
 
-/* POST */
-#content article.POST a h2 code {
+/* RQ3 */
+#content article.RQ3 a h2 code {
   color: #52ce0e;
 }
 
-#content article.POST a h2 code b {
+#content article.RQ3 a h2 code b {
   background: #52ce0e;
 }
 
-/* PUT */
-#content article.PUT a h2 code {
+/* RQ4 */
+#content article.RQ4 a h2 code {
   color: #e08f10;
 }
 
-#content article.PUT a h2 code b {
+#content article.RQ4 a h2 code b {
   background: #e08f10;
 }
 
-/* DELETE */
-#content article.DELETE a h2 code {
+/* RQ5 */
+#content article.RQ5 a h2 code {
   color: #e02a10;
 }
 
-#content article.DELETE a h2 code b {
+#content article.RQ5 a h2 code b {
   background: #e02a10;
 }
 
