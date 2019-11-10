@@ -596,10 +596,19 @@ code {
 
 /* RQ1 */
 #content article.RQ1 a h2 code {
-  color: #119bdf;
+  color: #8211df;
 }
 
 #content article.RQ1 a h2 code b {
+  background: #8211df;
+}
+
+/* RQ2 */
+#content article.RQ2 a h2 code {
+  color: #119bdf;
+}
+
+#content article.RQ2 a h2 code b {
   background: #119bdf;
 }
 
@@ -614,19 +623,28 @@ code {
 
 /* RQ4 */
 #content article.RQ4 a h2 code {
-  color: #e08f10;
+  color: #e0d210;
 }
 
 #content article.RQ4 a h2 code b {
-  background: #e08f10;
+  background: #e0d210;
 }
 
-/* RQ5 */
+/* RQ4 */
 #content article.RQ5 a h2 code {
-  color: #e02a10;
+  color: #e08610;
 }
 
 #content article.RQ5 a h2 code b {
+  background: #e08610;
+}
+
+/* RQ6 */
+#content article.RQ6 a h2 code {
+  color: #e02a10;
+}
+
+#content article.RQ6 a h2 code b {
   background: #e02a10;
 }
 
